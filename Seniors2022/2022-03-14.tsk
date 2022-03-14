@@ -1,0 +1,32 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Start A" id="0" comment="" altitude="36.0">
+      <Location longitude="-81.8383333" latitude="28.465"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Southerly" id="0" comment="" altitude="23.0">
+      <Location longitude="-81.5409833" latitude="28.0145"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Avon Park" id="0" comment="" altitude="48.0">
+      <Location longitude="-81.5283333" latitude="27.5933333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="35000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Green Swamp" id="0" comment="" altitude="35.0">
+      <Location longitude="-81.9979" latitude="28.2119333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Finish" id="0" comment="" altitude="36.0">
+      <Location longitude="-81.8383333" latitude="28.4066667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="2000.0"/>
+  </Point>
+</Task>
