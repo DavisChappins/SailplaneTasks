@@ -1,0 +1,44 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Start A" id="0" comment="" altitude="36.0">
+      <Location longitude="-81.8383333" latitude="28.465"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Flanders" id="0" comment="" altitude="39.0">
+      <Location longitude="-81.8279333" latitude="28.2062333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="14400.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Tilden Groves" id="0" comment="" altitude="38.0">
+      <Location longitude="-81.61" latitude="28.5033333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="12800.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Flying Baron" id="0" comment="" altitude="22.0">
+      <Location longitude="-81.935" latitude="28.8016667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="11200.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Chinsegut" id="0" comment="" altitude="24.0">
+      <Location longitude="-82.3677833" latitude="28.6114167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="32100.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Osborn" id="0" comment="" altitude="36.0">
+      <Location longitude="-81.875" latitude="28.5283333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4800.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Seminole" id="0" comment="6FL0 None" altitude="36.0">
+      <Location longitude="-81.8377778" latitude="28.4058333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3200.0"/>
+  </Point>
+</Task>
