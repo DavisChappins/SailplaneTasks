@@ -1,0 +1,39 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Start A" id="0" comment="" altitude="36.0">
+      <Location longitude="-81.8383333" latitude="28.465"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Wines" id="0" comment="" altitude="30.0">
+      <Location longitude="-81.4394667" latitude="27.8443667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="16100.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Wauchula" id="0" comment="" altitude="32.0">
+      <Location longitude="-81.8804667" latitude="27.515"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="35400.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Fish Hatchery" id="0" comment="" altitude="31.0">
+      <Location longitude="-82.0433333" latitude="28.48"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="11200.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Lakeridge Winery" id="0" comment="" altitude="46.0">
+      <Location longitude="-81.7686833" latitude="28.62735"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="14400.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Seminole Lake" id="0" comment="" altitude="36.0">
+      <Location longitude="-81.8383333" latitude="28.4016667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3200.0"/>
+  </Point>
+</Task>
+
